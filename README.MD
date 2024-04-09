@@ -1,7 +1,7 @@
 # EventPublisher
 Written as a C# CLI application because due to problems with xml deserialization  
 regarding trimming it sadly produces a 70 mb executable when publishing due to  
-it being self contained, so once built 
+it being self contained, so once built it has no external dependencies
 
 ## Build
 Building it requires .NET 8.0
@@ -16,7 +16,8 @@ running on localhost using guest guest credentials on / virtual host using
 the amq.headers exchange
 
 ## Dependencies
-The app can only publish to RabbitMQ, tested using rabbitmq:3-management docker image
+The app can only publish to RabbitMQ, tested using rabbitmq:3-management docker image  
+docker run -d --hostname my-rabbit --name some-rabbit -p 8080:15672 -p 5672:5672 rabbitmq:3-management
 
 ## Usage:
 event-publisher [options]
