@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<players>
+	<player_registration>
+		<id>1</id>
+		<name>John Doe</name>
+		<age>25</age>
+		<country>USA</country>
+		<position>Forward</position>
+		<achievements>
+			<achievement year="2022">League Winner</achievement>
+			<achievement year="2023">Top Scorer</achievement>
+		</achievements>
+	</player_registration>
+	<player_registration>
+		<id>1</id>
+		<name>John Doe</name>
+		<age>25</age>
+		<country>USA</country>
+		<position>Forward</position>
+		<achievements>
+			<achievement year="2022">League Winner</achievement>
+			<achievement year="2023">Top Scorer</achievement>
+		</achievements>
+	</player_registration>
+	<player_registration>
+		<id>2</id>
+		<name>Jane Doe</name>
+		<age>23</age>
+		<country>Slovenia</country>
+		<position>Forward</position>
+		<achievements>
+			<achievement year="2022">League Winner</achievement>
+			<achievement year="2023">Top Scorer</achievement>
+		</achievements>
+	</player_registration>
+	<player_registration>
+		<id>432</id>
+		<position>Guard</position>
+		<name>Jane Doe</name>
+		<age>23</age>
+		<country>Slovenia</country>
+		<achievements/>
+	</player_registration>
+</players>

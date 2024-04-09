@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<players>
+	<player_registration>
+		<id>1</id>
+		<name>John Doe</name>
+		<age>21</age>
+		<country>USA</country>
+		<position>Guard</position>
+		<achievements>
+			<achievement year="2022">League Winner</achievement>
+			<achievement year="2023">Top Scorer</achievement>
+		</achievements>
+	</player_registration>
+	<player_registration>
+		<id>1</id>
+		<name>John Doe</name>
+		<age>21</age>
+		<country>USA</country>
+		<position>Forward</position>
+		<achievements>
+			<achievement year="2022">League Winner</achievement>
+			<achievement year="2023">Top Scorer</achievement>
+		</achievements>
+	</player_registration>
+	<player_defenestraton>
+		<id>324</id>
+		<position>Window</position>
+		<name>De Fenestra</name>
+		<age>2324</age>
+		<country>Slovenia</country>
+		<achievements/>
+	</player_defenestraton>
+	<player_registration>
+		<id>2</id>
+		<name>Jane Doe</name>
+		<age>22</age>
+		<country>Slovenia</country>
+		<position>Forward</position>
+		<achievements>
+			<achievement year="2022">League Winner</achievement>
+			<achievement year="2023">Top Scorer</achievement>
+		</achievements>
+	</player_registration>
+	<player_registration>
+		<name>Jane Doe</name>
+		<age>22</age>
+		<country>Slovenia</country>
+		<position>Forward</position>
+		<achievements>
+			<achievement year="2022">League Winner</achievement>
+			<achievement year="2023">Top Scorer</achievement>
+		</achievements>
+	</player_registration>
+	<player_registration>
+		<id>2</id>
+		<age>22</age>
+		<country>Slovenia</country>
+		<position>Forward</position>
+		<achievements>
+			<achievement year="2022">League Winner</achievement>
+			<achievement year="2023">Top Scorer</achievement>
+		</achievements>
+	</player_registration>
+	<player_registration>
+		<id>2</id>
+		<name>Jane Doe</name>
+		<country>Slovenia</country>
+		<position>Forward</position>
+		<achievements>
+			<achievement year="2022">League Winner</achievement>
+			<achievement year="2023">Top Scorer</achievement>
+		</achievements>
+	</player_registration>
+	<player_registration>
+		<id>2</id>
+		<name>Jane Doe</name>
+		<age>22</age>
+		<position>Forward</position>
+		<achievements>
+			<achievement year="2022">League Winner</achievement>
+			<achievement year="2023">Top Scorer</achievement>
+		</achievements>
+	</player_registration>
+	<player_registration>
+		<id>2</id>
+		<name>Jane Doe</name>
+		<age>22</age>
+		<country>Slovenia</country>
+		<achievements>
+			<achievement year="2022">League Winner</achievement>
+			<achievement year="2023">Top Scorer</achievement>
+		</achievements>
+	</player_registration>
+	<player_registration>
+		<id>2</id>
+		<name>Jane Doe</name>
+		<age>22</age>
+		<country>Slovenia</country>
+		<position>Forward</position>
+	</player_registration>
+	<player_registration>
+		<id>3</id>
+		<position>Backwards</position>
+		<name>Achievements McNoachievmentson</name>
+		<age>23</age>
+		<country>Slovenia</country>
+		<achievements/>
+	</player_registration>
+</players>
